@@ -1,0 +1,13 @@
+class Subjek:
+    nama = "chilmi"
+    umur = 21
+    hobi = "mancing"
+
+
+Subjek.nama = "achmad"
+Subjek.umur = 20
+Subjek.hobi = "ngoding"
+
+print(Subjek.nama)
+print(Subjek.umur)
+print(Subjek.hobi)
